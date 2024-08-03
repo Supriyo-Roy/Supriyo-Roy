@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+![MasterHead](https://camo.githubusercontent.com/0c73c6dbf80f9e9de58425f4af8bcdd97b256d849b8accf66aaa3104d38c573d/68747470733a2f2f7777772e676c6f62616c7369676e2e636f6d2f6170706c69636174696f6e2f66696c65732f383731362f383435312f303337342f4465767365636f70735f4749462e676966)
 
 <h1 align="center">Hi 👋, I'm Supriyo Roy</h1>
 <h3 align="center">SRE/DevOps Engineer at IBM from India</h3>
@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **roysupriyoroy73@gmail.com**
   
-- ⚡ Fun fact **I am Extrovert**
-
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/supriyo-roy-kolkata)
 
 <h3 align="left">Connect with me:</h3>
