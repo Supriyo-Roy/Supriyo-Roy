@@ -1,5 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZQ2iz5CzJXoV8NWTOLY1ZxgYFnhKrfmfCA&s)
-
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 
 <h1 align="center">Hi 👋, I'm Supriyo Roy</h1>
 <h3 align="center">SRE/DevOps Engineer at IBM from India</h3>
@@ -8,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@roysupriyo2023" target="blank"><img src="https://img.shields.io/twitter/follow/@roysupriyo2023?logo=twitter&style=for-the-badge" alt="@roysupriyo2023" /></a> </p>
 
-- 🔭 I’m currently working on **Kubernetes, Terraform**
+- 🔭 I’m currently working on I’m currently working on [Python]([https://github.com/AmanPathak-DevOps/Terraform-for-AWS](https://github.com/Supriyo-Roy/Python_Codes))
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Kubernetes, Terraform, EKS**
+- 💬 Ask me about **DevOps, AWS,, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting,**
 
 - 📫 How to reach me **roysupriyoroy73@gmail.com**
+  
+- ⚡ Fun fact **I am Extrovert**
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/supriyo-roy-kolkata)
 
