@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4MnltaWh1OWp6ZGtvMDZqZDVuNGNpaXBjM2k1eWJjZTd4NzhjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyo-roy&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo-roy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@roysupriyo2023" target="blank"><img src="https://img.shields.io/twitter/follow/@roysupriyo2023?logo=twitter&style=for-the-badge" alt="@roysupriyo2023" /></a> </p>
 
 - 🔭 I’m currently working on [Terraform](https://github.com/Supriyo-Roy)
 
