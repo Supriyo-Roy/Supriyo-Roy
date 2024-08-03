@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roysupriyoroy73@gmail.com**
   
-- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/supriyo-roy-kolkata)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/supriyo-roy-kolkata)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
