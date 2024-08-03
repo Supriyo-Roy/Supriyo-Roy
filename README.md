@@ -1,5 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/0c73c6dbf80f9e9de58425f4af8bcdd97b256d849b8accf66aaa3104d38c573d/68747470733a2f2f7777772e676c6f62616c7369676e2e636f6d2f6170706c69636174696f6e2f66696c65732f383731362f383435312f303337342f4465767365636f70735f4749462e676966)
-
 <h1 align="center">Hi 👋, I'm Supriyo Roy</h1>
 <h3 align="center">SRE/DevOps Engineer at IBM from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4MnltaWh1OWp6ZGtvMDZqZDVuNGNpaXBjM2k1eWJjZTd4NzhjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
