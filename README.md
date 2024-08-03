@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@roysupriyo2023" target="blank"><img src="https://img.shields.io/twitter/follow/@roysupriyo2023?logo=twitter&style=for-the-badge" alt="@roysupriyo2023" /></a> </p>
 
-- 🔭 I’m currently working on [Python]([https://github.com/AmanPathak-DevOps/Terraform-for-AWS](https://github.com/Supriyo-Roy/Python_Codes))
+- 🔭 I’m currently working on [Terraform](https://github.com/Supriyo-Roy)
 
 - 🌱 I’m currently learning **Python**
 
