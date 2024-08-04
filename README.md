@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Supriyo Roy</h1>
+<h1 align="center">Hi 👋, My name is Supriyo Roy</h1>
 <h3 align="center">SRE/DevOps Engineer at IBM from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4MnltaWh1OWp6ZGtvMDZqZDVuNGNpaXBjM2k1eWJjZTd4NzhjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyo-roy&label=Profile%20views&color=0e75b6&style=flat" alt="supriyo-roy" /> </p>
 
+  
+- 🌍  I'm based in Kolkata
 
-- 🔭 I’m currently working on [Terraform](https://github.com/Supriyo-Roy)
+- 🧠  I'm learning Everything DevOps & SRE
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **DevOps, AWS,, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting,**
-
-- 📫 How to reach me **roysupriyoroy73@gmail.com**
+- 📫 You can contact me at **roysupriyoroy73@gmail.com**
+  
+- 🤝  I'm open to collaborating on anything related to Cloud, DevOps & SRE
   
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/supriyo-roy-kolkata)
 
